@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'open_sansregular';
+	font-display: swap;
+    src: url('OpenSans-Regular-webfont.woff2') format('woff2'),
+         url('OpenSans-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansbold';
+	font-display: swap;
+    src: url('OpenSans-Bold-webfont.woff2') format('woff2'),
+         url('OpenSans-Bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sansitalic';
+	font-display: swap;
+    src: url('OpenSans-Italic-webfont.woff2') format('woff2'),
+         url('OpenSans-Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'monospacetypewriterregular';
+	font-display: swap;
+    src: url('MonospaceTypewriter-webfont.woff2') format('woff2'),
+         url('MonospaceTypewriter-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'droid_serifbold';
+	font-display: swap;
+    src: url('DroidSerif-Bold-webfont.woff2') format('woff2'),
+         url('DroidSerif-Bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

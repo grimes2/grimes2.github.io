@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     width="340"
+     height="170"
+     viewBox="0 0 340 170"
+     id="svg2985"
+     sodipodi:docname="foobar2000_3a.svg"
+     inkscape:version="0.92.3 (2405546, 2018-03-11)">
+    <sodipodi:namedview
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="640"
+         inkscape:window-height="480"
+         id="namedview879"
+         showgrid="false"
+         inkscape:pagecheckerboard="true"
+         inkscape:zoom="1.9591017"
+         inkscape:cx="145.0732"
+         inkscape:cy="26.906987"
+         inkscape:current-layer="g5424" />
+    <title
+         id="title4172">foobar2000 Aliencat Logo</title>
+    <metadata
+         id="metadata2991">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>foobar2000 Aliencat Logo</dc:title>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <defs
+         id="defs2989">
+        <linearGradient
+             id="linearGradient5439">
+            <stop
+                 id="stop5441"
+                 style="stop-color:#000000;stop-opacity:1"
+                 offset="0" />
+        </linearGradient>
+        <linearGradient
+             x1="26.312283"
+             y1="127.54988"
+             x2="219.45209"
+             y2="127.99906"
+             id="linearGradient5453"
+             xlink:href="#linearGradient5439"
+             gradientUnits="userSpaceOnUse" />
+        <filter
+             id="filter4164"
+             style="color-interpolation-filters:sRGB;">
+            <feGaussianBlur
+                 id="feGaussianBlur4166"
+                 stdDeviation="4"
+                 in="SourceAlpha"
+                 result="result0" />
+            <feOffset
+                 id="feOffset4168"
+                 result="result4"
+                 dy="5"
+                 dx="5" />
+            <feComposite
+                 id="feComposite4170"
+                 result="result3"
+                 operator="xor"
+                 in2="result4"
+                 in="SourceGraphic" />
+        </filter>
+        <filter
+             inkscape:label="Inset"
+             inkscape:menu="Shadows and Glows"
+             inkscape:menu-tooltip="Shadowy outer bevel"
+             style="color-interpolation-filters:sRGB;"
+             id="filter1436">
+            <feMorphology
+                 result="result1"
+                 in="SourceAlpha"
+                 operator="dilate"
+                 radius="3.6"
+                 id="feMorphology1424" />
+            <feGaussianBlur
+                 stdDeviation="3.6"
+                 in="result1"
+                 result="result0"
+                 id="feGaussianBlur1426" />
+            <feDiffuseLighting
+                 surfaceScale="-5"
+                 id="feDiffuseLighting1430">
+                <feDistantLight
+                     elevation="45"
+                     azimuth="225"
+                     id="feDistantLight1428" />
+            </feDiffuseLighting>
+            <feComposite
+                 in2="result0"
+                 operator="in"
+                 result="result91"
+                 id="feComposite1432" />
+            <feComposite
+                 in="SourceGraphic"
+                 in2="result91"
+                 id="feComposite1434" />
+        </filter>
+    </defs>
+    <g
+         transform="translate(421.31564,-153.9414)"
+         id="g5424"
+         style="fill:#000000;fill-opacity:1;stroke:url(#linearGradient5453);stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <text
+             x="-406.1395"
+             y="226.28763"
+             transform="scale(1.0022017,0.99780313)"
+             id="text3218"
+             xml:space="preserve"
+             style="font-size:37.26115799px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.01996338;stroke-opacity:1;font-family:'Open Sans, Liberation Sans, sans-serif'"><tspan
+                 x="-406.1395"
+                 y="226.28763"
+                 id="tspan3220"
+                 style="stroke-width:1.01996338">foobar2000</tspan><tspan
+                 x="-406.1395"
+                 y="272.86404"
+                 id="tspan3222"
+                 style="stroke-width:1.01996338"><tspan
+                     id="tspan3224"
+                     style="font-size:37.26115799px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke-width:1.01996338;font-family:'Open Sans, Liberation Sans, sans-serif'">plays music </tspan></tspan></text>
+        <path
+             d="m -137.52147,298.90346 c 15.00612,-12.87279 28.35265,-28.06479 37.785843,-45.52399 7.35239,-14.14153 3.6781,-30.70252 -2.223323,-44.61095 -4.85983,-11.03057 -9.72341,-22.20719 -16.30143,-32.32683 -3.66042,3.22272 -6.57776,8.67015 -9.83118,12.88638 -2.15711,3.06327 -4.31424,6.12655 -6.47136,9.18982 -5.32622,0.0131 -10.65242,0.0262 -15.97864,0.0393 -5.27192,-7.39737 -10.33948,-14.94838 -15.86335,-22.15982 -4.71073,5.51974 -7.37884,12.72573 -10.78632,19.16772 -6.14372,13.34738 -13.127,27.2923 -11.97639,42.43517 -0.23716,13.1996 8.73149,23.79908 15.92994,33.96668 8.85916,11.47171 19.11784,22.01503 30.65667,30.75288 1.84056,-1.03236 3.41388,-2.50684 5.05954,-3.81632 z"
+             id="path3051-4"
+             style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;filter:url(#filter1436)" />
+        <path
+             d="m -174.38447,242.80455 a 22.249945,11.40955 51.756017 0 1 -4.42538,-24.35701 22.249945,11.40955 51.756017 0 1 22.81226,10.82723 22.249945,11.40955 51.756017 0 1 4.42538,24.35701 22.249945,11.40955 51.756017 0 1 -22.81226,-10.82723 z"
+             id="path5804"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+             d="m -110.74171,242.64125 a 11.40955,22.249945 38.243983 0 0 4.42538,-24.357 11.40955,22.249945 38.243983 0 0 -22.81226,10.82723 11.40955,22.249945 38.243983 0 0 -4.42539,24.357 11.40955,22.249945 38.243983 0 0 22.81227,-10.82723 z"
+             id="path5804-59"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+        <path
+             d="m -141.68907,268.23034 a 2.1502151,2.1502151 0 0 0 -0.24415,0.0156 2.1502151,2.1502151 0 0 0 -0.30078,-0.0137 2.1502151,2.1502151 0 0 0 -1.47851,0.65039 l -9.99024,9.99024 a 2.1503223,2.1503223 0 1 0 3.04102,3.04101 l 8.73242,-8.73242 8.73242,8.73242 a 2.1502151,2.1502151 0 1 0 3.03907,-3.04101 l -9.99024,-9.99024 a 2.1502151,2.1502151 0 0 0 -1.54101,-0.65234 z"
+             id="path4088"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+</svg>

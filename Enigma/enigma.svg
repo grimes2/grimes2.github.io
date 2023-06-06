@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.1"
+     id="svg4590"
+     viewBox="0 0 669.27076 633.26417"
+     height="633.26416"
+     width="669.27075">
+    <title
+         id="title4160">Enigma Icon</title>
+    <defs
+         id="defs4592">
+        <linearGradient
+             id="linearGradient4148">
+            <stop
+                 style="stop-color:#000000;stop-opacity:1;"
+                 offset="0"
+                 id="stop4150" />
+            <stop
+                 style="stop-color:#000000;stop-opacity:0.41568628"
+                 offset="1"
+                 id="stop4152" />
+        </linearGradient>
+        <linearGradient
+             id="linearGradient4162">
+            <stop
+                 id="stop4164"
+                 offset="0"
+                 style="stop-color:#000000;stop-opacity:1;" />
+            <stop
+                 id="stop4166"
+                 offset="1"
+                 style="stop-color:#000000;stop-opacity:0.61943322" />
+        </linearGradient>
+        <linearGradient
+             id="linearGradient4848">
+            <stop
+                 style="stop-color:#000000;stop-opacity:0;"
+                 offset="0"
+                 id="stop4852" />
+            <stop
+                 style="stop-color:#000000;stop-opacity:1;"
+                 offset="1"
+                 id="stop4850" />
+        </linearGradient>
+        <radialGradient
+             gradientTransform="translate(-41.213183,39.382246)"
+             spreadMethod="pad"
+             gradientUnits="userSpaceOnUse"
+             r="252.53813"
+             fy="149.28581"
+             fx="194.95944"
+             cy="149.28581"
+             cx="194.95944"
+             id="radialGradient4856"
+             xlink:href="#linearGradient4848" />
+        <filter
+             height="1.3518885"
+             y="-0.17594425"
+             width="1.0703777"
+             x="-0.03518885"
+             id="filter5004"
+             style="color-interpolation-filters:sRGB">
+            <feGaussianBlur
+                 id="feGaussianBlur5006"
+                 stdDeviation="7.5535478" />
+        </filter>
+        <filter
+             height="1.024"
+             y="-0.012"
+             width="1.024"
+             x="-0.012"
+             id="filter5086"
+             style="color-interpolation-filters:sRGB">
+            <feGaussianBlur
+                 id="feGaussianBlur5088"
+                 stdDeviation="2.5253813" />
+        </filter>
+        <radialGradient
+             gradientUnits="userSpaceOnUse"
+             gradientTransform="matrix(1,0,0,0.25260028,0,418.85619)"
+             r="275.71741"
+             fy="603.35925"
+             fx="306.08054"
+             cy="603.35925"
+             cx="306.08054"
+             id="radialGradient4168"
+             xlink:href="#linearGradient4162" />
+        <radialGradient
+             xlink:href="#linearGradient4148"
+             id="radialGradient4154"
+             cx="330.88574"
+             cy="575.31903"
+             fx="330.88574"
+             fy="575.31903"
+             r="275.71741"
+             gradientTransform="matrix(1,0,0,0.25260028,0,418.85619)"
+             gradientUnits="userSpaceOnUse" />
+    </defs>
+    <metadata
+         id="metadata4595">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Enigma Icon</dc:title>
+                <cc:license
+                     rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+            </cc:Work>
+            <cc:License
+                 rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:permits
+                     rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <g
+         transform="translate(41.213183,-39.382246)"
+         id="layer1">
+        <ellipse
+             transform="matrix(1,0,0,1.4257693,-57.578696,-245.67981)"
+             ry="51.51778"
+             rx="257.5889"
+             cy="560.41791"
+             cx="389.91885"
+             id="path4842"
+             style="opacity:1;fill:url(#radialGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5004)" />
+        <circle
+             r="252.53813"
+             cy="317.98129"
+             cx="237.38586"
+             id="path4844"
+             style="opacity:1;fill:url(#radialGradient4856);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;filter:url(#filter5086)" />
+    </g>
+</svg>

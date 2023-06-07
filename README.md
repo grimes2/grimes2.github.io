@@ -1,2 +1,2 @@
-# Pettersson
-Allan Pettersson Fanpage https://pettersson-fanpage.de
+# Allan Pettersson Fanpage
+https://pettersson-fanpage.de

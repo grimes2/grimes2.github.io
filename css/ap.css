@@ -6,7 +6,7 @@ body {
 	font-family : 'open_sansregular', Arial, Helvetica, sans-serif;
 	font-size : large;
 	font-weight : normal;
-	margin : 8%;
+	margin : 10%;
 	padding : 1em;
 }
 sup {
@@ -68,7 +68,7 @@ p.h2, span.h2 {
 div.scroll {
 	overflow-y : scroll;
 	width : 100%;
-	height : 18em;
+	height : 50vh;
 	padding : 5px;
 	box-sizing : border-box;
 	border : 1px grey solid;
@@ -194,7 +194,7 @@ video {
 }
 object {
 	width : 100%;
-	height : 1000px;
+	height : 100vh;
 }
 img.a {
 	width : 75%;
@@ -301,16 +301,11 @@ div.space {
 	margin-top : 1em;
 	margin-bottom : 1em;
 }
-iframe.map {
-	width : 100%;
-	height : 35em;
-	border : 1px solid black;
-}
 meter {
   width : 100%;
   height : 2em;
 }
-#map, #map2, #map3, #map4, #map5, #map6, #map7, #map8 { height: 100vh; width: 100%; }
+#map, #map2, #map3, #map4, #map5, #map6, #map7, #map8 { height: 100vh; width: 100%; border : 1px solid black; }
 #up {
 	position : fixed;
 	right : 15px;

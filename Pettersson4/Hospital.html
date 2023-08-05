@@ -52,10 +52,18 @@
 							<div id="map6"></div>
 							<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 							<script>
-							var map = L.map('map6').setView([59.35109,18.03337], 16);
-							L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
-							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+							var mapOptions = {
+							center: [59.35109,18.03337],
+							zoom: 16,
+							zoomControl: false
+							}
+							var map = new L.map('map6', mapOptions);
+							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+							map.addLayer(layer);
 							L.marker([59.35109,18.03337]).addTo(map).bindPopup('Hospital').openPopup();
+							var scale = L.control.scale();
+							scale.addTo(map);
 							</script>
 						</div>
 					</div>

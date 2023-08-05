@@ -8,8 +8,9 @@
 		<meta name=viewport content="width=device-width, initial-scale=1">
 		<meta content="lange" name="author">
 		<meta content="Royal Swedish Academy of Music, Stockholm" name="description">
-		<meta content="Allan Pettersson, Conservatory" name="keywords">
+		<meta content="Allan Pettersson, Conservatorium" name="keywords">
 		<link rel="icon" href="../favicon.svg" sizes="any" type="image/svg+xml">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 	</head>
 	<body>
 		<div>
@@ -43,16 +44,14 @@
 							</figure>
 						</div>
 						<div class="col span_1_of_2">
-							<figure>
-								<iframe class="map" src="https://www.openstreetmap.org/export/embed.html?bbox=18.056201934814457%2C59.32368838262689%2C18.096370697021488%2C59.3383110070883&amp;layer=mapnik&amp;marker=59.33100048147772%2C18.07628631591797"></iframe>
-								<figcaption>
-									<p><small>
-										<a href="https://www.openstreetmap.org/?mlat=59.3310&amp;mlon=18.0763#map=14/59.3310/18.0763">
-										View Larger Map</a>
-									</small></p>
-									<p>Royal Swedish Academy of Music (Kungliga Musikaliska Akademien), Musikaliska, Nybrokajen 11, Stockholm, Sweden</p>
-								</figcaption>
-							</figure>
+							<div id="map7"></div>
+							<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+							<script>
+							var map = L.map('map7').setView([59.33100,18.07629], 16);
+							L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+							L.marker([59.33100,18.07629]).addTo(map).bindPopup('Education').openPopup();
+							</script>
 						</div>
 					</div>
 				</div>

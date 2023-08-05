@@ -1,6 +1,6 @@
 html {
 	color : black;
-	background : rgb(255, 253, 208);
+	background : cornsilk;
 }
 body {
 	font-family : 'open_sansregular', Arial, Helvetica, sans-serif;
@@ -31,7 +31,7 @@ h2 {
 	font-size : x-large;
 	font-weight : bold;
 	font-variant : small-caps;
-	border-top : 0.3em solid teal;
+	border-top : 0.3em solid navy;
 	margin-top : 1em;
 	padding : 0;
 }
@@ -154,16 +154,16 @@ a:link {
 	color : maroon;
 }
 a[target="_blank"]:link {
-	color : midnightblue;
+	color : navy;
 }
 a.midi:link {
-	color : blue;
+	color : navy;
 }
 a:visited {
 	color : purple;
 }
 #pagination span a {
-	color : teal;
+	color : navy;
 	padding : 10px;
 }
 #pagination span.actual {

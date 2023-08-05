@@ -171,7 +171,6 @@ a:visited {
 	padding : 10px;
 }
 a:hover, a.midi:hover, a[target="_blank"]:hover, #pagination a:hover {
-	color : darkred;
 	text-decoration : underline;
 }
 #scale, #scale2 {

@@ -144,6 +144,9 @@ details {
 p.justify {
 	text-align : justify;
 }
+span, li {
+	line-height : 3em;
+}
 a {
 	text-decoration : none;
 }

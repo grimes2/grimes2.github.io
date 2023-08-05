@@ -10,6 +10,7 @@
 		<meta content="Home" name="description">
 		<meta content="Allan Pettersson, Stockholm, Bastugatan, Asögatan, Home, Residence" name="keywords">
 		<link rel="icon" href="../favicon.svg" sizes="any" type="image/svg+xml">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 	</head>
 	<body>
 		<div>
@@ -38,51 +39,41 @@
 					<div class="section group">
 						<div class="col span_1_of_2">
 							<div class="bottom">
-								<figure>
-									<iframe class="map"
-										src="https://www.openstreetmap.org/export/embed.html?bbox=18.02041%2C59.295519%2C18.14872%2C59.33073&amp;layer=mapnik&amp;marker=59.313133%2C18.08456">
-									</iframe>
-									<br>
-									<figcaption>
-										<p><small>
-											<a href="https://www.openstreetmap.org/?mlat=59.3131&amp;mlon=18.0846#map=14/59.3131/18.0846">
-											View Larger Map</a>
-										</small></p>
-										<p>Skånegatan 87, Södermalm, Stockholm, Sweden</p>
-									</figcaption>
-								</figure>
+								<div id="map2"></div>
+								<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+								<script>
+								var map = L.map('map2').setView([59.31313,18.08456], 16);
+								L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+								{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+								L.marker([59.31313,18.08456]).addTo(map).bindPopup('Skånegatan 87').openPopup();
+								</script>
 							</div>
 						</div>
 					</div>
 				</div>
 				<h2>Home - Åsögatan 127</h2>
 				<div class="smallbottom">
-					<p>For thirty years, Allan Pettersson and his wife <abbr title="October 16, 1921 - January 23, 2017">Gudrun</abbr> lived in two rooms in the fourth floor of an old apartment building in Åsögatan 127.</p>
+					<p>For thirty years, Allan Pettersson and his wife <abbr title="October 16, 1921 - January 23, 2017">Gudrun</abbr> lived in two rooms in the fourth floor of an old apartment building in Åsögatan 127, Södermalm, Stockholm..</p>
 				</div>
 				<div class="bottom">
 					<div class="section group">
 						<div class="col span_1_of_2">
 							<div class="bottom">
-								<figure>
-									<iframe class="map"
-										src="https://www.openstreetmap.org/export/embed.html?bbox=18.04567,59.30421,18.10013,59.32445&amp;layer=mapnik&amp;marker=59.31360,18.07808">
-									</iframe>
-									<br>
-									<figcaption>
-										<p><small>
-											<a href="https://www.openstreetmap.org/?lat=59.31433&amp;lon=18.0729&amp;zoom=14&amp;layers=M&amp;mlat=59.31360&amp;mlon=18.07808">
-											View Larger Map</a>
-										</small></p>
-										<p>Åsögatan 127, Södermalm, Stockholm, Sweden</p>
-									</figcaption>
-								</figure>
+								<div id="map3"></div>
+								<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+								<script>
+								var map = L.map('map3').setView([59.31360,18.07808], 16);
+								L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+								{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+								L.marker([59.31360,18.07808]).addTo(map).bindPopup('Åsögatan 127').openPopup();
+								</script>
 							</div>
 						</div>
 					</div>
 				</div>
 				<h2>Home - Bastugatan 30</h2>
 				<div class="smallbottom">
-					<p>In October 1976, both moved to State living quarters in Stockholm's <abbr title="This house had been also the residence of composer and conductor Ture Rangström.">Bastugatan 30</abbr>.</p>
+					<p>In October 1976, both moved to State living quarters in Södermalm's <abbr title="This house had been also the residence of composer and conductor Ture Rangström.">Bastugatan 30</abbr>.</p>
 				</div>
 				<div class="bottom">
 					<div class="section group">
@@ -97,18 +88,14 @@
 							</figure>
 						</div>
 						<div class="col span_1_of_2">
-							<figure>
-								<iframe class="map"
-									src="https://www.openstreetmap.org/export/embed.html?bbox=18.05476,59.31588,18.07045,59.32486&amp;layer=mapnik&amp;marker=59.32042,18.06023">
-								</iframe>
-								<figcaption>
-									<p><small>
-										<a href="https://www.openstreetmap.org/?lat=59.32037&amp;lon=18.062605&amp;zoom=15&amp;layers=M&amp;mlat=59.32042&amp;mlon=18.06023">
-										View Larger Map</a>
-									</small></p>
-									<p>Bastugatan 30, Södermalm, Stockholm, Sweden</p>
-								</figcaption>
-							</figure>
+							<div id="map4"></div>
+							<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+							<script>
+							var map = L.map('map4').setView([59.32042,18.06023], 16);
+							L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+							L.marker([59.32042,18.06023]).addTo(map).bindPopup('Bastugaton 30').openPopup();
+							</script>
 						</div>
 					</div>
 				</div>

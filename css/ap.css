@@ -153,12 +153,6 @@ a {
 a:link {
 	color : maroon;
 }
-a[target="_blank"]:link {
-	color : black;
-}
-a.midi:link {
-	color : navy;
-}
 a:visited {
 	color : purple;
 }

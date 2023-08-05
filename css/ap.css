@@ -1,6 +1,6 @@
 html {
 	color : black;
-	background : cornsilk;
+	background : beige;
 }
 body {
 	font-family : 'open_sansregular', Arial, Helvetica, sans-serif;
@@ -154,7 +154,7 @@ a:link {
 	color : maroon;
 }
 a[target="_blank"]:link {
-	color : navy;
+	color : black;
 }
 a.midi:link {
 	color : navy;

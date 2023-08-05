@@ -10,6 +10,7 @@
 		<meta content="Karolinska Institut" name="description">
 		<meta content="Allan Pettersson, Hospital, University, 1971" name="keywords">
 		<link rel="icon" href="../favicon.svg" sizes="any" type="image/svg+xml">
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 	</head>
 	<body>
 		<div>
@@ -48,18 +49,14 @@
 							</figure>
 						</div>
 						<div class="col span_1_of_2">
-							<figure>
-								<iframe class="map"
-									src="https://www.openstreetmap.org/export/embed.html?bbox=17.922992706298828%2C59.32154261793932%2C18.143749237060547%2C59.380611096465685&amp;layer=mapnik&amp;marker=59.35108970335334%2C18.033370971679688">
-								</iframe>
-								<figcaption>
-									<p><small>
-										<a href="https://www.openstreetmap.org/?mlat=59.3511&amp;mlon=18.0334#map=13/59.3511/18.0334">
-									View Larger Map</a>
-									</small></p>
-									<p>Karolinska Hospital, Solna, Stockholm, Sweden</p>
-								</figcaption>
-							</figure>
+							<div id="map6"></div>
+							<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+							<script>
+							var map = L.map('map6').setView([59.35109,18.03337], 16);
+							L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+							L.marker([59.35109,18.03337]).addTo(map).bindPopup('Hospital').openPopup();
+							</script>
 						</div>
 					</div>
 				</div>

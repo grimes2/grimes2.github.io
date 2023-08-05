@@ -145,7 +145,7 @@ p.justify {
 	text-align : justify;
 }
 span, li {
-	line-height : 2em;
+	line-height : 3em;
 }
 a {
 	text-decoration : none;
@@ -164,7 +164,7 @@ a:visited {
     color : black;
 	padding : 10px;
 }
-a:hover, a.midi:hover, a[target="_blank"]:hover, #pagination a:hover {
+a:hover {
 	text-decoration : underline;
 }
 #scale, #scale2 {

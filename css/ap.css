@@ -105,6 +105,7 @@ ul {
 }
 nav.horizontal {
 	display : inline;
+	line-height : 3em;
 }
 li.none {
 	list-style-type : none;
@@ -144,7 +145,7 @@ details {
 p.justify {
 	text-align : justify;
 }
-span, li {
+li {
 	line-height : 3em;
 }
 a {

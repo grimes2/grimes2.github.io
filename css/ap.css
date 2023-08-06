@@ -71,7 +71,7 @@ div.scroll {
 	height : 50vh;
 	padding : 5px;
 	box-sizing : border-box;
-	border : 1px grey solid;
+	border : 1px black solid;
 }
 div.scrollh {
 	overflow-x : scroll;
@@ -153,6 +153,12 @@ a {
 a:link {
 	color : maroon;
 }
+a:link.pdf {
+	color : blue;
+}
+a:link.midi {
+	color : darkgreen;
+}
 a:visited {
 	color : purple;
 }
@@ -192,34 +198,41 @@ object {
 img.a {
 	width : 75%;
 	height : auto;
-	border : 0;
-}
-img.b {
-	width : 100%;
-	height : auto;
-	border : black solid 1px;
+	border : 1px black solid;
 }
 img.c {
+	width : 100%;
+	height : auto;
+	border : 1px black solid;
+}
+img.z {
 	width : 100%;
 	height : auto;
 	border : 0;
 }
 img.d {
-	width : 75%;
+	max-width : 400px;
+	width : 100%;
 	height : auto;
-	border : black solid 1px;
+	border : 0;
 }
 img.e {
 	max-width : 400px;
 	width : 100%;
 	height : auto;
-	border : 0;
+	border : 1px black solid;
 }
 img.f {
 	max-width : 200px;
 	width : 60%;
 	height : auto;
 	border : 0;
+}
+img.b {
+	max-width : 200px;
+	width : 60%;
+	height : auto;
+	border : 1px black solid;
 }
 img.g {
 	width : 200%;
@@ -298,7 +311,11 @@ meter {
   width : 100%;
   height : 2em;
 }
-#map, #map2, #map3, #map4, #map5, #map6, #map7, #map8 { height: 100vh; width: 100%; border : 1px solid black; }
+#map, #map2, #map3, #map4, #map5, #map6, #map7, #map8 {
+	height: 100vh;
+	width: 100%;
+	border : 1px solid black;
+}
 #up {
 	position : fixed;
 	right : 15px;

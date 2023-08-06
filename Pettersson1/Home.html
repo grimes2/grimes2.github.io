@@ -11,6 +11,7 @@
 		<meta content="Allan Pettersson, Stockholm, Bastugatan, Asögatan, Home, Residence" name="keywords">
 		<link rel="icon" href="../favicon.svg" sizes="any" type="image/svg+xml">
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+		<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 	</head>
 	<body>
 		<div>
@@ -40,12 +41,10 @@
 						<div class="col span_1_of_2">
 							<div class="bottom">
 								<div id="map2"></div>
-								<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 								<script>
 								var mapOptions = {
 								center: [59.31313,18.08456],
 								zoom: 16,
-								zoomControl: false
 								}
 								var map = new L.map('map2', mapOptions);
 								var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
@@ -68,12 +67,10 @@
 						<div class="col span_1_of_2">
 							<div class="bottom">
 								<div id="map3"></div>
-								<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 								<script>
 								var mapOptions = {
 								center: [59.31360,18.07808],
 								zoom: 16,
-								zoomControl: false
 								}
 								var map = new L.map('map3', mapOptions);
 								var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
@@ -105,12 +102,10 @@
 						</div>
 						<div class="col span_1_of_2">
 							<div id="map4"></div>
-							<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 							<script>
 							var mapOptions = {
 							center: [59.32042,18.06023],
 							zoom: 16,
-							zoomControl: false
 							}
 							var map = new L.map('map4', mapOptions);
 							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 

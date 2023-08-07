@@ -197,9 +197,14 @@ object {
 	height : 100vh;
 }
 img.a {
-	width : 75%;
+	width : 60%;
 	height : auto;
 	border : 1px black solid;
+}
+img.y {
+	width : 60%;
+	height : auto;
+	border : 0;
 }
 img.c {
 	width : 100%;

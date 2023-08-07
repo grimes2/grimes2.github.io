@@ -132,12 +132,8 @@ figure {
 }
 figcaption {
 	display : block;
-	width : 80vw;
 	margin-top : 1em;
 	margin-bottom : 2em;
-}
-figcaption.a {
-	width : 75%;
 }
 details {
   margin-bottom: 1em;

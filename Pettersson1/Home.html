@@ -38,23 +38,21 @@
 				</div>
 				<div class="bottom">
 					<div class="section group">
-						<div class="col span_1_of_2">
-							<div class="bottom">
-								<div id="map2"></div>
-								<script>
-								var mapOptions = {
-								center: [59.31313,18.08456],
-								zoom: 16,
-								}
-								var map = new L.map('map2', mapOptions);
-								var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
-								{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
-								map.addLayer(layer);
-								L.marker([59.31313,18.08456]).addTo(map).bindPopup('Skånegatan 87').openPopup();
-								var scale = L.control.scale();
-								scale.addTo(map);
-								</script>
-							</div>
+						<div class="bottom">
+							<div id="map2"></div>
+							<script>
+							var mapOptions = {
+							center: [59.31313,18.08456],
+							zoom: 16,
+							}
+							var map = new L.map('map2', mapOptions);
+							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+							map.addLayer(layer);
+							L.marker([59.31313,18.08456]).addTo(map).bindPopup('Skånegatan 87').openPopup();
+							var scale = L.control.scale();
+							scale.addTo(map);
+							</script>
 						</div>
 					</div>
 				</div>
@@ -64,23 +62,21 @@
 				</div>
 				<div class="bottom">
 					<div class="section group">
-						<div class="col span_1_of_2">
-							<div class="bottom">
-								<div id="map3"></div>
-								<script>
-								var mapOptions = {
-								center: [59.31360,18.07808],
-								zoom: 16,
-								}
-								var map = new L.map('map3', mapOptions);
-								var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
-								{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
-								map.addLayer(layer);
-								L.marker([59.31360,18.07808]).addTo(map).bindPopup('Åsögatan 127').openPopup();
-								var scale = L.control.scale();
-								scale.addTo(map);
-								</script>
-							</div>
+						<div class="bottom">
+							<div id="map3"></div>
+							<script>
+							var mapOptions = {
+							center: [59.31360,18.07808],
+							zoom: 16,
+							}
+							var map = new L.map('map3', mapOptions);
+							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+							map.addLayer(layer);
+							L.marker([59.31360,18.07808]).addTo(map).bindPopup('Åsögatan 127').openPopup();
+							var scale = L.control.scale();
+							scale.addTo(map);
+							</script>
 						</div>
 					</div>
 				</div>
@@ -90,32 +86,28 @@
 				</div>
 				<div class="bottom">
 					<div class="section group">
-						<div class="col span_1_of_2">
-							<figure>
-								<a href="Bastugatan_30,_utsikt_1930.webp" target="_blank"><img class="c" title="Bastugatan 30" alt="Bastugatan 30" src="Bastugatan_30,_utsikt_1930.webp"></a>
-								<figcaption>View from Bastugatan 30 to the north, Södermalm, Stockholm, Photo: Svenska Dagbladet, 1930 (Public Domain)</figcaption>
-							</figure>
-							<figure>
-								<a href="Sunset_view_from_public_garden_on_Södermalm.webp" target="_blank"><img class="c" title="Södermalm" alt="Södermalm" src="Sunset_view_from_public_garden_on_Södermalm.webp"></a>
-								<figcaption>Sunset view from Ivar Los Park, Bastugatan 26, towards Riddarholmen, Photo: Gerda Arendt 2023 (CC BY-SA 4.0)</figcaption>
-							</figure>
-						</div>
-						<div class="col span_1_of_2">
-							<div id="map4"></div>
-							<script>
-							var mapOptions = {
-							center: [59.32042,18.06023],
-							zoom: 16,
-							}
-							var map = new L.map('map4', mapOptions);
-							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
-							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
-							map.addLayer(layer);
-							L.marker([59.32042,18.06023]).addTo(map).bindPopup('Bastugatan 30').openPopup();
-							var scale = L.control.scale();
-							scale.addTo(map);
-							</script>
-						</div>
+						<figure>
+							<a href="Bastugatan_30,_utsikt_1930.webp" target="_blank"><img class="c" title="Bastugatan 30" alt="Bastugatan 30" src="Bastugatan_30,_utsikt_1930.webp"></a>
+							<figcaption>View from Bastugatan 30 to the north, Södermalm, Stockholm, Photo: Svenska Dagbladet, 1930 (Public Domain)</figcaption>
+						</figure>
+						<figure>
+							<a href="Sunset_view_from_public_garden_on_Södermalm.webp" target="_blank"><img class="c" title="Södermalm" alt="Södermalm" src="Sunset_view_from_public_garden_on_Södermalm.webp"></a>
+							<figcaption>Sunset view from Ivar Los Park, Bastugatan 26, towards Riddarholmen, Photo: Gerda Arendt 2023 (CC BY-SA 4.0)</figcaption>
+						</figure>
+						<div id="map4"></div>
+						<script>
+						var mapOptions = {
+						center: [59.32042,18.06023],
+						zoom: 16,
+						}
+						var map = new L.map('map4', mapOptions);
+						var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+						{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+						map.addLayer(layer);
+						L.marker([59.32042,18.06023]).addTo(map).bindPopup('Bastugatan 30').openPopup();
+						var scale = L.control.scale();
+						scale.addTo(map);
+						</script>
 					</div>
 				</div>
 			</section>

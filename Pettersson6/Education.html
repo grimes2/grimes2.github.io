@@ -38,28 +38,24 @@
 				</div>
 				<div class="bottom">
 					<div class="section group">
-						<div class="col span_1_of_2">
-							<figure>
-								<a href="KMA_hus.fr_Nybroviken.webp" target="_blank"><img class="c" title="Royal Swedish Academy of Music, Stockholm" alt="Kungliga Musikaliska Akademien, Stockholm" src="KMA_hus.fr_Nybroviken.webp"></a>
-								<figcaption>Royal Swedish Academy of Music, Stockholm, Photo: Albabos, Wikimedia Commons (CC-BY-3.0)</figcaption>
-							</figure>
-						</div>
-						<div class="col span_1_of_2">
-							<div id="map7"></div>
-							<script>
-							var mapOptions = {
-							center: [59.33100,18.07629],
-							zoom: 16,
-							}
-							var map = new L.map('map7', mapOptions);
-							var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
-							{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
-							map.addLayer(layer);
-							L.marker([59.33100,18.07629]).addTo(map).bindPopup('Education').openPopup();
-							var scale = L.control.scale();
-							scale.addTo(map);
-							</script>
-						</div>
+						<figure>
+							<a href="KMA_hus.fr_Nybroviken.webp" target="_blank"><img class="c" title="Royal Swedish Academy of Music, Stockholm" alt="Kungliga Musikaliska Akademien, Stockholm" src="KMA_hus.fr_Nybroviken.webp"></a>
+							<figcaption>Royal Swedish Academy of Music, Stockholm, Photo: Albabos, Wikimedia Commons (CC-BY-3.0)</figcaption>
+						</figure>
+						<div id="map7"></div>
+						<script>
+						var mapOptions = {
+						center: [59.33100,18.07629],
+						zoom: 16,
+						}
+						var map = new L.map('map7', mapOptions);
+						var layer = new L.TileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', 
+						{attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'});
+						map.addLayer(layer);
+						L.marker([59.33100,18.07629]).addTo(map).bindPopup('Education').openPopup();
+						var scale = L.control.scale();
+						scale.addTo(map);
+						</script>
 					</div>
 				</div>
 			</section>

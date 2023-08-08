@@ -91,14 +91,15 @@ q {
 	quotes : '»' '«';
 }
 blockquote, ul, ol, dl {
-	margin : 2em;
-	padding : 0;
-}
-ol, ul, dl {
 	margin-left : 1.5em;
+	padding : 0;
 }
 ol {
 	list-style : decimal outside;
+}
+ol.alpha {
+	list-style-type : lower-alpha;
+	line-height : 0;
 }
 ul {
 	list-style : disc outside;

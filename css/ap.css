@@ -194,7 +194,8 @@ object {
 	height : 100vh;
 }
 img.a {
-	width : 60%;
+	width : 100%;
+	max-width : 500px;
 	height : auto;
 	border : 1px black solid;
 }
@@ -205,6 +206,7 @@ img.y {
 }
 img.c {
 	width : 100%;
+	max-width : 800px;
 	height : auto;
 	border : 1px black solid;
 }
@@ -315,8 +317,9 @@ meter {
   height : 2em;
 }
 #map, #map2, #map3, #map4, #map5, #map6, #map7, #map8 {
-	height: 100vh;
+	height: 85vh;
 	width: 100%;
+	max-width : 800px;
 	border : 1px solid black;
 }
 #up {

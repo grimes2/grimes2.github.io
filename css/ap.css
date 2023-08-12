@@ -39,6 +39,7 @@ h6, p.h6, summary.h6 {
 	font-family : 'monospacetypewriterregular', monospace;
 	font-weight : bold;
 	line-height : 100%;
+	margin-top : 1em;
 }
 h6, p.h6, summary.h6, h3 {
 	font-size : x-large;

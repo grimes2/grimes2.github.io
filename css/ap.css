@@ -200,7 +200,8 @@ img.a {
 	border : 1px black solid;
 }
 img.y {
-	width : 60%;
+	width : 100%;
+	max-width : 500px;
 	height : auto;
 	border : 0;
 }
@@ -215,27 +216,15 @@ img.z {
 	height : auto;
 	border : 0;
 }
-img.d {
-	max-width : 400px;
-	width : 100%;
-	height : auto;
-	border : 0;
-}
-img.e {
-	max-width : 400px;
-	width : 100%;
-	height : auto;
-	border : 1px black solid;
-}
 img.f {
 	max-width : 200px;
-	width : 60%;
+	width : 100%;
 	height : auto;
 	border : 0;
 }
 img.b {
 	max-width : 200px;
-	width : 60%;
+	width : 100%;
 	height : auto;
 	border : 1px black solid;
 }

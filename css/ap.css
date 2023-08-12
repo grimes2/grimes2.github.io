@@ -35,11 +35,10 @@ h2 {
 	margin-top : 1em;
 	padding : 0;
 }
-h6, p.h6, summary.h6 {
+h6, summary.h6 {
 	font-family : 'monospacetypewriterregular', monospace;
-	font-size : large;
 }
-h6, p.h6, h3 {
+h6, h3 {
 	font-size : x-large;
 }
 h4, h5, p.h5 {

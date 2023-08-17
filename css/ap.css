@@ -213,6 +213,12 @@ img.c {
 	height : auto;
 	border : 1px black solid;
 }
+img.x {
+	width : 100%;
+	max-width : 800px;
+	height : auto;
+	border : 0;
+}
 img.z {
 	width : 100%;
 	height : auto;

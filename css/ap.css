@@ -99,6 +99,10 @@ ol.roman {
 	list-style-type : upper-roman;
 	line-height : 0;
 }
+ol.upperalpha {
+	list-style-type : upper-alpha;
+	line-height : 0;
+}
 ol.alpha {
 	list-style-type : lower-alpha;
 	line-height : 0;

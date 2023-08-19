@@ -199,6 +199,13 @@ object {
 	width : 100%;
 	height : 100vh;
 }
+iframe {
+  top: 0; bottom: 0; left: 0;
+  max-width : 400px;
+  width: 100%;
+  height: auto
+  border: 0;
+}
 img.a {
 	width : 100%;
 	max-width : 500px;

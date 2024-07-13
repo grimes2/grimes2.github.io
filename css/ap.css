@@ -134,7 +134,7 @@ caption {
 p, table, pre {
 	margin-bottom : 1em;
 }
-.center {
+table.center {
   	margin-left: auto;
   	margin-right: auto;
 }

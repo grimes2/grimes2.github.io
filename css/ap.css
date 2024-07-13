@@ -134,6 +134,10 @@ caption {
 p, table, pre {
 	margin-bottom : 1em;
 }
+.center {
+  	margin-left: auto;
+  	margin-right: auto;
+}
 figure {
 	margin : 0em;
 }

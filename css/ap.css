@@ -134,6 +134,9 @@ caption {
 p, table, pre {
 	margin-bottom : 1em;
 }
+table.red {
+	color : red;
+}
 figure {
 	margin : 0em;
 }

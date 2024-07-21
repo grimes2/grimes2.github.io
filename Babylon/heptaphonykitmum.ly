@@ -10,7 +10,7 @@ global = {
 
 melody = \relative c'' {
   \global
-   d,4 a' c e d b f g d1 \break
+   d,4 a' c e, d b' f g d1 \break
    d4 b' a g d e c f d1 \break
    d4 c f b d a g e d1 \break
    d4 e b' f d g a c, d1 \break

@@ -164,10 +164,11 @@
   <text
      y="8.0720005"
      x="46.817112"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
+     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#ff0000"
      id="text40"
      font-size="2.2001"><tspan
-       id="tspan42">f</tspan></text>
+       id="tspan42"
+       style="fill:#ff0000">f</tspan></text>
   <path
      style="fill:#ff0000"
      id="path44"

@@ -40,7 +40,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
@@ -164,13 +163,13 @@
   <text
      y="8.0720005"
      x="46.817112"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#ff0000"
+     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#000000"
      id="text40"
      font-size="2.2001"><tspan
        id="tspan42"
-       style="fill:#ff0000">f</tspan></text>
+       style="fill:#000000">f</tspan></text>
   <path
-     style="fill:#ff0000"
+     style="fill:#000000"
      id="path44"
      d="m 47.677113,9.6740006 c -0.2,0 -0.276,0.172 -0.276,0.3520004 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.3080004 -0.228,-0.5440004 -0.536,-0.5440004 z m 1.12,0.4480004 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.1720004 0.14,-0.3040004 0.292,-0.3880004 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.3880004 z" />
   <path
@@ -234,12 +233,13 @@
   <text
      y="8.0720005"
      x="12.028913"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
+     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#ff0000"
      id="text74"
      font-size="2.2001"><tspan
-       id="tspan76">f</tspan></text>
+       id="tspan76"
+       style="fill:#ff0000">f</tspan></text>
   <path
-     style="fill:currentColor"
+     style="fill:#ff0000"
      id="path78"
      d="m 12.888913,12.674001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
   <path

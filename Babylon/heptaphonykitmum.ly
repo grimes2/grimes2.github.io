@@ -14,7 +14,7 @@ melody = \relative c'' {
    d4 bes' a g d e c f d1 \break
    d4 c f bes d a g e d1 \break
    d4 e bes' f d g a c, d1 \break
-   d4 f g a d c e, bes d1 \break
+   d4 f g a d c e, bes' d,1 \break
    d4 g e c d f bes a d,1
 }
 

@@ -137,6 +137,9 @@ p, table, pre {
 td.red {
 	color : red;
 }
+td.blue {
+	color : blue;
+}
 figure {
 	margin : 0em;
 }

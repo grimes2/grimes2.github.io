@@ -5,7 +5,7 @@
    height="121.00553"
    width="349.36435"
    version="1.2"
-   sodipodi:docname="Heptachord.svg"
+   sodipodi:docname="Heptachord (2).svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.7942591"
-     inkscape:cx="114.25329"
+     inkscape:cx="114.53195"
      inkscape:cy="3.0653321"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     showgrid="false" />
   <metadata
      id="metadata100">
     <rdf:RDF>
@@ -233,13 +234,13 @@
   <text
      y="8.0720005"
      x="12.028913"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#ff0000"
+     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#0000ff"
      id="text74"
      font-size="2.2001"><tspan
        id="tspan76"
-       style="fill:#ff0000">f</tspan></text>
+       style="fill:#0000ff">f</tspan></text>
   <path
-     style="fill:#ff0000"
+     style="fill:#0000ff"
      id="path78"
      d="m 12.888913,12.674001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
   <path

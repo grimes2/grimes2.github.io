@@ -16,7 +16,7 @@
   d1 e -\tweak HorizontalBracketText.text "semitone"  \startGroup f\stopGroup g a b-\tweak HorizontalBracketText.text "semitone"\startGroup c\stopGroup}
 \new Staff \with { \consists Horizontal_bracket_engraver \remove "Time_signature_engraver" \remove "Bar_engraver" } 
 \relative c' { 
-  f1 g a b -\tweak HorizontalBracketText.text "semitone"  \startGroup c\stopGroup d e}
+  f,1 g a b -\tweak HorizontalBracketText.text "semitone"  \startGroup c\stopGroup d e}
 \new Staff \with { \consists Horizontal_bracket_engraver \remove "Time_signature_engraver" \remove "Bar_engraver" } 
 \relative c' { 
   c1 d e -\tweak HorizontalBracketText.text "semitone"  \startGroup f\stopGroup g a b}

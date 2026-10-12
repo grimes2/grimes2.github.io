@@ -1,216 +1,239 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="svg2"
-   viewBox="0 0 38.713825 19.433492"
-   height="121.00553"
-   width="241.05739"
    version="1.2"
+   width="52.789604mm"
+   height="17.233475mm"
+   viewBox="0 0 30.040201 9.8067987"
+   id="svg16"
    sodipodi:docname="Tetrachord.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
   <sodipodi:namedview
-     id="namedview1"
+     id="namedview16"
      pagecolor="#ffffff"
      bordercolor="#000000"
-     borderopacity="0.25"
+     borderopacity="0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="6.3881377"
-     inkscape:cx="120.45764"
-     inkscape:cy="60.502766"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68862935"
+     inkscape:cx="283.89728"
+     inkscape:cy="603.37248"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata82">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <cc:license
-           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs80" />
-  <!-- Page: 1/1 -->
-  <text
-     y="2.2120006"
-     x="-5.3230872"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text4"
-     font-size="2.2001"><tspan
-       id="tspan6" /></text>
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line8"
-     y2="12.622001"
-     x2="35.451111"
-     y1="12.622001"
-     x1="3.2627127" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line10"
-     y2="11.622001"
-     x2="35.451111"
-     y1="11.622001"
-     x1="3.2627127" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line12"
-     y2="10.622001"
-     x2="35.451111"
-     y1="10.622001"
-     x1="3.2627127" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line14"
-     y2="9.6220007"
-     x2="35.451111"
-     y1="9.6220007"
-     x1="3.2627127" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line16"
-     y2="8.6220007"
-     x2="35.451111"
-     y1="8.6220007"
-     x1="3.2627127" />
-  <path
-     style="fill:currentColor"
-     id="path18"
-     d="m 24.484913,11.674001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
-  <path
-     style="fill:currentColor"
-     id="path20"
-     d="m 30.283013,11.174001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
-  <text
-     y="8.0720005"
-     x="29.423014"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text22"
-     font-size="2.2001"><tspan
-       id="tspan24">f</tspan></text>
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line26"
-     y2="14.422001"
-     x2="25.105013"
-     y1="14.422001"
-     x1="18.326912" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line28"
-     y2="13.422001"
-     x2="25.605013"
-     y1="14.422001"
-     x1="25.105013" />
-  <line
-     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round"
-     id="line30"
-     y2="13.422001"
-     x2="17.826912"
-     y1="14.422001"
-     x1="18.326912" />
-  <path
-     style="fill:#0000ff"
-     id="path32"
-     d="m 12.888913,12.674001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
-  <text
-     y="8.0720005"
-     x="12.028913"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:#0000ff"
-     id="text34"
-     font-size="2.2001"><tspan
-       id="tspan36"
-       style="fill:#0000ff">f</tspan></text>
-  <text
-     y="5.0720005"
-     x="12.028913"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text38"
-     font-size="2.2001"><tspan
-       id="tspan40">D-</tspan></text>
-  <text
-     y="5.0720005"
-     x="15.053013"
-     style="font-style:italic;font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text42"
-     font-size="2.2001"
-     font-style="italic"><tspan
-       id="tspan44">kitmum</tspan></text>
-  <text
-     y="5.0720005"
-     x="23.608414"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text46"
-     font-size="2.2001"><tspan
-       id="tspan48">(1</tspan></text>
-  <path
-     style="fill:currentColor"
-     id="path50"
-     d="m 26.382613,4.9080006 -0.004,0.264 0,0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z" />
-  <text
-     y="5.0720005"
-     x="27.674612"
-     style="font-size:2.20009995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text52"
-     font-size="2.2001"><tspan
-       id="tspan54">)</tspan></text>
-  <path
-     style="fill:currentColor"
-     id="path56"
-     d="m 8.5329128,10.574001 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.616 -0.428,0.84 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.688 -1.332,-1.496 0,-0.708 0.524,-1.2240004 0.992,-1.7640004 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.2720004 0.156,0.5520004 0.224,0.8280004 z m 0.34,1.86 c 0.272,-0.096 0.452,-0.38 0.452,-0.656 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.416 z m -1.548,-0.924 c 0,0.54 0.516,0.988 1.056,0.988 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.508 -0.148,-0.98 -0.252,-1.456 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.06 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7000004 -0.428,0.4840004 -0.852,0.9720004 -0.852,1.6120004 z m 1.336,-4.0680004 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z" />
-  <rect
-     rx="0.039999999"
-     style="fill:currentColor"
-     id="rect58"
-     ry="0.039999999"
-     height="0.28"
-     width="0.2"
-     y="12.232"
-     x="5.770813" />
-  <path
-     style="fill:currentColor"
-     id="path60"
-     d="m 6.0927128,12.570001 c 0.224,0 0.436,0.116 0.436,0.364 0,0.288 -0.224,0.484 -0.412,0.596 -0.144,0.084 -0.304,0.144 -0.468,0.144 -0.224,0 -0.436,-0.116 -0.436,-0.364 0,-0.288 0.224,-0.484 0.412,-0.596 0.144,-0.084 0.304,-0.144 0.468,-0.144 z" />
-  <path
-     style="fill:currentColor"
-     id="path62"
-     d="m 6.0927128,11.070001 c 0.224,0 0.436,0.116 0.436,0.364 0,0.288 -0.224,0.484 -0.412,0.596 -0.144,0.084 -0.304,0.144 -0.468,0.144 -0.224,0 -0.436,-0.116 -0.436,-0.364 0,-0.288 0.224,-0.484 0.412,-0.596 0.144,-0.084 0.304,-0.144 0.468,-0.144 z" />
-  <text
-     y="16.195301"
-     x="17.826912"
-     style="font-size:1.74609995px;font-family:droid_serifbold;text-anchor:start;fill:currentColor"
-     id="text64"
-     font-size="1.7461"><tspan
-       id="tspan66">semitone</tspan></text>
-  <path
-     style="fill:currentColor"
-     id="path68"
-     d="m 18.686913,12.174001 c -0.2,0 -0.276,0.172 -0.276,0.352 0,0.308 0.228,0.544 0.536,0.544 0.2,0 0.276,-0.172 0.276,-0.352 0,-0.308 -0.228,-0.544 -0.536,-0.544 z m 1.12,0.448 c 0,0.172 -0.14,0.304 -0.292,0.388 -0.212,0.12 -0.452,0.164 -0.696,0.164 -0.244,0 -0.488,-0.044 -0.7,-0.164 -0.152,-0.084 -0.292,-0.216 -0.292,-0.388 0,-0.172 0.14,-0.304 0.292,-0.388 0.212,-0.12 0.456,-0.164 0.7,-0.164 0.244,0 0.484,0.044 0.696,0.164 0.152,0.084 0.292,0.216 0.292,0.388 z" />
+     inkscape:current-layer="svg16" />
+  <style
+     type="text/css"
+     id="style1"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <g
+     transform="translate(0,5.776)"
+     id="g1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="29.9902"
+       y2="0"
+       id="line1" />
+  </g>
+  <g
+     transform="translate(0,4.776)"
+     id="g2">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="29.9902"
+       y2="0"
+       id="line2" />
+  </g>
+  <g
+     transform="translate(0,3.776)"
+     id="g3">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="29.9902"
+       y2="0"
+       id="line3" />
+  </g>
+  <g
+     transform="translate(0,2.776)"
+     id="g4">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="29.9902"
+       y2="0"
+       id="line4" />
+  </g>
+  <g
+     transform="translate(0,1.776)"
+     id="g5">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="29.9902"
+       y2="0"
+       id="line5" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/juerg/OneDrive/Dokumente/Norgard/Tetrachord2.ly:4:78:79"
+     id="a6"
+     transform="translate(-17.0717,-7.9146)">
+    <g
+       transform="translate(41.0518,12.6906)"
+       id="g6">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path5" />
+    </g>
+  </a>
+  <g
+     transform="translate(11.6031,9.7872)"
+     id="g7">
+    <text
+       font-family="serif"
+       font-size="1.9598px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text6"><tspan
+         id="tspan6">semitone</tspan></text>
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/juerg/OneDrive/Dokumente/Norgard/Tetrachord2.ly:4:7:8"
+     id="a10"
+     transform="translate(-17.0717,-7.9146)">
+    <g
+       transform="translate(28.9317,15.6622)"
+       id="g8">
+      <line
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1"
+         stroke="currentColor"
+         x1="7.5219998"
+         y1="0"
+         x2="8.0220003"
+         y2="-1"
+         id="line7" />
+    </g>
+    <g
+       transform="translate(28.9317,15.6622)"
+       id="g9">
+      <line
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1"
+         stroke="currentColor"
+         x1="0.5"
+         y1="0"
+         x2="0"
+         y2="-1"
+         id="line8" />
+    </g>
+    <g
+       transform="translate(28.9317,15.6622)"
+       id="g10">
+      <line
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1"
+         stroke="currentColor"
+         x1="0.5"
+         y1="0"
+         x2="7.5219998"
+         y2="0"
+         id="line9" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/juerg/OneDrive/Dokumente/Norgard/Tetrachord2.ly:4:2:3"
+     id="a11"
+     transform="translate(-17.0717,-7.9146)">
+    <g
+       transform="translate(22.8717,14.1906)"
+       id="g11">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path10" />
+    </g>
+  </a>
+  <g
+     transform="translate(0.8,4.776)"
+     id="g12">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 135,786 c 24,-116 46,-231 60,-354 77,27 112,92 112,160 0,90 -62,183 -172,194 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z m 176,525 c -29,96 -52,193 -52,310 0,142 40,249 149,328 3,2 7,3 10,3 4,0 7,0 10,-3 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 5,0 10,1 14,1 155,0 255,-129 255,-261 0,-76 -33,-155 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 C 147,-262 2,-90 2,112 2,289 133,418 250,553 Z m -3,227 c 0,-71 17,-129 35,-188 80,97 147,200 147,327 0,39 -7,82 -21,126 C 304,995 247,899 247,780 Z"
+       fill="currentColor"
+       id="path11" />
+  </g>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/juerg/OneDrive/Dokumente/Norgard/Tetrachord2.ly:4:66:67"
+     id="a13"
+     transform="translate(-17.0717,-7.9146)">
+    <g
+       transform="translate(34.9917,13.1906)"
+       id="g13">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path12" />
+    </g>
+  </a>
+  <a
+     style="color:inherit"
+     xlink:href="textedit://C:/Users/juerg/OneDrive/Dokumente/Norgard/Tetrachord2.ly:4:5:6"
+     id="a14"
+     transform="translate(-17.0717,-7.9146)">
+    <g
+       transform="translate(28.9317,13.6906)"
+       id="g14">
+      <path
+         transform="scale(0.004,-0.004)"
+         d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+         fill="currentColor"
+         id="path13" />
+    </g>
+  </a>
 </svg>

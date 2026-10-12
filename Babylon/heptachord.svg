@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   width="84.737465mm"
+   height="19.869421mm"
+   viewBox="0 0 48.220298 11.306798"
+   id="svg27"
+   sodipodi:docname="heptachord.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern14"
+       patternTransform="translate(190,350)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern6-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern10"
+       patternTransform="translate(190,350)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="28.28"
+       height="23.44"
+       patternTransform="translate(190,350)"
+       preserveAspectRatio="xMidYMid"
+       style="fill:#000000"
+       id="pattern6-7"
+       inkscape:label=""
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         style="paint-order:stroke markers fill;stop-color:#000000"
+         d="M 0,0        A 20,20 0,0,1 14.14,5.86        A 20,20 0,0,0 28.28,11.72        L 28.28, 23.44        A 20,20 0,0,1 14.14,17.58        A 20,20 0,0,0 0,11.72        L 0,0 "
+         id="path4-2"
+         sodipodi:nodetypes="cc" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68862935"
+     inkscape:cx="283.89728"
+     inkscape:cy="508.98208"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <style
+     type="text/css"
+     id="style1"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <g
+     transform="translate(0,5.776)"
+     id="g1"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="48.1703"
+       y2="0"
+       id="line1"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(0,4.776)"
+     id="g2"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="48.1703"
+       y2="0"
+       id="line2"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(0,3.776)"
+     id="g3"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="48.1703"
+       y2="0"
+       id="line3"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(0,2.776)"
+     id="g4"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="48.1703"
+       y2="0"
+       id="line4"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(0,1.776)"
+     id="g5"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.050000001"
+       y1="0"
+       x2="48.1703"
+       y2="0"
+       id="line5"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(-8.5359,6.776)"
+     id="g6"
+     style="fill:#000000;fill-opacity:1">
+    <rect
+       x="25.965401"
+       y="-0.1"
+       width="2.9430001"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect5"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(-8.5359,6.776)"
+     id="g7"
+     style="fill:#000000;fill-opacity:1">
+    <rect
+       x="19.905399"
+       y="-0.1"
+       width="2.9430001"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect6"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(-8.5359,6.776)"
+     id="g8"
+     style="fill:#000000;fill-opacity:1">
+    <rect
+       x="13.8453"
+       y="-0.1"
+       width="2.9430001"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect7"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(-8.5359,7.776)"
+     id="g9"
+     style="fill:#000000;fill-opacity:1">
+    <rect
+       x="13.8453"
+       y="-0.1"
+       width="2.9430001"
+       height="0.2"
+       ry="0.1"
+       fill="currentColor"
+       id="rect8"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(36.1002,5.276)"
+     id="g10"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path9"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(30.0401,5.776)"
+     id="g11"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path10"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(29.7832,9.7872)"
+     id="g12"
+     style="fill:#000000;fill-opacity:1">
+    <text
+       font-family="serif"
+       font-size="1.9598px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text11"
+       style="fill:#000000;fill-opacity:1"><tspan
+         id="tspan11"
+         style="fill:#000000;fill-opacity:1">semitone</tspan></text>
+  </g>
+  <g
+     transform="translate(30.0401,7.7476)"
+     id="g13"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="7.5219998"
+       y1="0"
+       x2="8.0220003"
+       y2="-1"
+       id="line12"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(30.0401,7.7476)"
+     id="g14"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.5"
+       y1="0"
+       x2="0"
+       y2="-1"
+       id="line13"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(30.0401,7.7476)"
+     id="g15"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.5"
+       y1="0"
+       x2="7.5219998"
+       y2="0"
+       id="line14"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(11.6031,11.2872)"
+     id="g16"
+     style="fill:#000000;fill-opacity:1">
+    <text
+       font-family="serif"
+       font-size="1.9598px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text15"
+       style="fill:#000000;fill-opacity:1"><tspan
+         id="tspan15"
+         style="fill:#000000;fill-opacity:1">semitone</tspan></text>
+  </g>
+  <g
+     transform="translate(11.86,9.2476)"
+     id="g17"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="7.5219998"
+       y1="0"
+       x2="8.0220003"
+       y2="-1"
+       id="line16"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(11.86,9.2476)"
+     id="g18"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.5"
+       y1="0"
+       x2="0"
+       y2="-1"
+       id="line17"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(11.86,9.2476)"
+     id="g19"
+     style="fill:#000000;fill-opacity:1">
+    <line
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.1"
+       stroke="currentColor"
+       x1="0.5"
+       y1="0"
+       x2="7.5219998"
+       y2="0"
+       id="line18"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(42.1602,4.776)"
+     id="g20"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path19"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(11.86,7.276)"
+     id="g21"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path20"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(0.8,4.776)"
+     id="g22"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 135,786 c 24,-116 46,-231 60,-354 77,27 112,92 112,160 0,90 -62,183 -172,194 z M 74,28 c 0,-135 129,-247 264,-247 28,0 55,2 82,6 C 406,-86 383,32 357,151 278,143 233,90 233,32 c 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -3,0 -6,1 -9,2 -80,43 -117,115 -117,185 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z m 176,525 c -29,96 -52,193 -52,310 0,142 40,249 149,328 3,2 7,3 10,3 4,0 7,0 10,-3 71,-84 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 5,0 10,1 14,1 155,0 255,-129 255,-261 0,-76 -33,-155 -107,-210 -22,-17 -47,-28 -73,-36 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -29,-5 -58,-8 -89,-8 C 147,-262 2,-90 2,112 2,289 133,418 250,553 Z m -3,227 c 0,-71 17,-129 35,-188 80,97 147,200 147,327 0,39 -7,82 -21,126 C 304,995 247,899 247,780 Z"
+       fill="currentColor"
+       id="path21"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(5.8,7.776)"
+     id="g23"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path22"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(23.9801,6.276)"
+     id="g24"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path23"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(17.92,6.776)"
+     id="g25"
+     style="fill:#000000;fill-opacity:1">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 213,112 c -48,0 -70,-40 -70,-84 0,-80 57,-140 135,-140 48,0 70,40 70,84 0,80 -57,140 -135,140 z M 491,0 c 0,-43 -34,-75 -72,-96 -53,-29 -114,-40 -174,-40 -60,0 -120,11 -173,40 -38,21 -72,53 -72,96 0,43 34,75 72,96 53,29 113,40 173,40 60,0 121,-11 174,-40 38,-21 72,-53 72,-96 z"
+       fill="currentColor"
+       id="path24"
+       style="fill:#000000;fill-opacity:1" />
+  </g>
+</svg>
